@@ -3,5 +3,5 @@
 Using HTML5 and CSS3 created the Instagram SignUp Page
 
 ## Image :
+![ScreenShot](ScreenShot/Screenshot(87).png)
 
-<img src="ScreenShot/Screenshot(87).png" width="500px" >
